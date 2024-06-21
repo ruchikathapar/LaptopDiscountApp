@@ -1,4 +1,5 @@
 ﻿<Properties StartupConfiguration="{87C410B8-6810-4A11-9222-41077C054334}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.LaptopDiscount FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.LaptopDiscount PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.LaptopDiscount.nUnitTests FirstBuild="True" />
 </Properties>
