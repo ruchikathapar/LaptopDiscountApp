@@ -1,0 +1,15 @@
+/Users/hk/Desktop/LaptopDiscount/LaptopDiscount/bin/Debug/net7.0/LaptopDiscount
+/Users/hk/Desktop/LaptopDiscount/LaptopDiscount/bin/Debug/net7.0/LaptopDiscount.deps.json
+/Users/hk/Desktop/LaptopDiscount/LaptopDiscount/bin/Debug/net7.0/LaptopDiscount.runtimeconfig.json
+/Users/hk/Desktop/LaptopDiscount/LaptopDiscount/bin/Debug/net7.0/LaptopDiscount.dll
+/Users/hk/Desktop/LaptopDiscount/LaptopDiscount/bin/Debug/net7.0/LaptopDiscount.pdb
+/Users/hk/Desktop/LaptopDiscount/LaptopDiscount/obj/Debug/net7.0/LaptopDiscount.csproj.AssemblyReference.cache
+/Users/hk/Desktop/LaptopDiscount/LaptopDiscount/obj/Debug/net7.0/LaptopDiscount.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hk/Desktop/LaptopDiscount/LaptopDiscount/obj/Debug/net7.0/LaptopDiscount.AssemblyInfoInputs.cache
+/Users/hk/Desktop/LaptopDiscount/LaptopDiscount/obj/Debug/net7.0/LaptopDiscount.AssemblyInfo.cs
+/Users/hk/Desktop/LaptopDiscount/LaptopDiscount/obj/Debug/net7.0/LaptopDiscount.csproj.CoreCompileInputs.cache
+/Users/hk/Desktop/LaptopDiscount/LaptopDiscount/obj/Debug/net7.0/LaptopDiscount.dll
+/Users/hk/Desktop/LaptopDiscount/LaptopDiscount/obj/Debug/net7.0/refint/LaptopDiscount.dll
+/Users/hk/Desktop/LaptopDiscount/LaptopDiscount/obj/Debug/net7.0/LaptopDiscount.pdb
+/Users/hk/Desktop/LaptopDiscount/LaptopDiscount/obj/Debug/net7.0/LaptopDiscount.genruntimeconfig.cache
+/Users/hk/Desktop/LaptopDiscount/LaptopDiscount/obj/Debug/net7.0/ref/LaptopDiscount.dll
